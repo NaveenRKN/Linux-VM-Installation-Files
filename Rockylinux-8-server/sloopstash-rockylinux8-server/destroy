@@ -1,0 +1,3 @@
+#!/bin/bash
+
+VAGRANT_DISABLE_VBOXSYMLINKCREATE=1 VAGRANT_VAGRANTFILE=vagrant/sloopstash-rockylinux8-server.vagrantfile vagrant destroy sloopstash-rockylinux8-server
