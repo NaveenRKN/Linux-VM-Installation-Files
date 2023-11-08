@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RiskDashboard_RESTAPI.props" />
+</Project>

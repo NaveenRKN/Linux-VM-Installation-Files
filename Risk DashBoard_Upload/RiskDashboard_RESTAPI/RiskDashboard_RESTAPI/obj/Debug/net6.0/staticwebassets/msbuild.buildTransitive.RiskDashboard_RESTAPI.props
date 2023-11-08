@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RiskDashboard_RESTAPI.props" />
+</Project>

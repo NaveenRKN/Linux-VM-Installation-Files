@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  riskdashboard_restapi:
+    image: ${DOCKER_REGISTRY-}riskdashboardrestapi
+    build:
+      context: .
+      dockerfile: RiskDashboard_RESTAPI/Dockerfile

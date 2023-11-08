@@ -1,0 +1,12 @@
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RistDashboard.Api.Entities\bin\Release\net6.0\RistDashboard.Api.Entities.deps.json
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RistDashboard.Api.Entities\bin\Release\net6.0\RistDashboard.Api.Entities.dll
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RistDashboard.Api.Entities\bin\Release\net6.0\RistDashboard.Api.Entities.pdb
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RistDashboard.Api.Entities\obj\Release\net6.0\RistDashboard.Api.Entities.csproj.AssemblyReference.cache
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RistDashboard.Api.Entities\obj\Release\net6.0\RistDashboard.Api.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RistDashboard.Api.Entities\obj\Release\net6.0\RistDashboard.Api.Entities.AssemblyInfoInputs.cache
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RistDashboard.Api.Entities\obj\Release\net6.0\RistDashboard.Api.Entities.AssemblyInfo.cs
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RistDashboard.Api.Entities\obj\Release\net6.0\RistDashboard.Api.Entities.csproj.CoreCompileInputs.cache
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RistDashboard.Api.Entities\obj\Release\net6.0\RistDashboard.Api.Entities.dll
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RistDashboard.Api.Entities\obj\Release\net6.0\refint\RistDashboard.Api.Entities.dll
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RistDashboard.Api.Entities\obj\Release\net6.0\RistDashboard.Api.Entities.pdb
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RistDashboard.Api.Entities\obj\Release\net6.0\ref\RistDashboard.Api.Entities.dll

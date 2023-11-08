@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XOy9Nl7gsuDPZTD4hhK+VOsVX8rh8f6wBX+wDH3YBIw=",
+  "Source": "RiskDashboard_RESTAPI",
+  "BasePath": "_content/RiskDashboard_RESTAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

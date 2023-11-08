@@ -1,0 +1,49 @@
+C:\Users\patnam.babaiah\source\repos\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\bin\Debug\net6.0\RiskDashboard.Api.Services.deps.json
+C:\Users\patnam.babaiah\source\repos\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\bin\Debug\net6.0\RiskDashboard.Api.Services.dll
+C:\Users\patnam.babaiah\source\repos\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\bin\Debug\net6.0\RiskDashboard.Api.Services.pdb
+C:\Users\patnam.babaiah\source\repos\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\bin\Debug\net6.0\RistDashboard.Api.Entities.dll
+C:\Users\patnam.babaiah\source\repos\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\bin\Debug\net6.0\RistDashboard.Api.Entities.pdb
+C:\Users\patnam.babaiah\source\repos\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\obj\Debug\net6.0\RiskDashboard.Api.Services.csproj.AssemblyReference.cache
+C:\Users\patnam.babaiah\source\repos\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\obj\Debug\net6.0\RiskDashboard.Api.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patnam.babaiah\source\repos\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\obj\Debug\net6.0\RiskDashboard.Api.Services.AssemblyInfoInputs.cache
+C:\Users\patnam.babaiah\source\repos\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\obj\Debug\net6.0\RiskDashboard.Api.Services.AssemblyInfo.cs
+C:\Users\patnam.babaiah\source\repos\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\obj\Debug\net6.0\RiskDashboard.Api.Services.csproj.CoreCompileInputs.cache
+C:\Users\patnam.babaiah\source\repos\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\obj\Debug\net6.0\RiskDashboard.Api.Services.csproj.CopyComplete
+C:\Users\patnam.babaiah\source\repos\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\obj\Debug\net6.0\RiskDashboard.Api.Services.dll
+C:\Users\patnam.babaiah\source\repos\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\obj\Debug\net6.0\refint\RiskDashboard.Api.Services.dll
+C:\Users\patnam.babaiah\source\repos\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\obj\Debug\net6.0\RiskDashboard.Api.Services.pdb
+C:\Users\patnam.babaiah\source\repos\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\obj\Debug\net6.0\ref\RiskDashboard.Api.Services.dll
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\bin\Debug\net6.0\RiskDashboard.Api.Services.deps.json
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\bin\Debug\net6.0\RiskDashboard.Api.Services.dll
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\bin\Debug\net6.0\RiskDashboard.Api.Services.pdb
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\bin\Debug\net6.0\RistDashboard.Api.Entities.dll
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\bin\Debug\net6.0\RistDashboard.Api.Entities.pdb
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\obj\Debug\net6.0\RiskDashboard.Api.Services.csproj.AssemblyReference.cache
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\obj\Debug\net6.0\RiskDashboard.Api.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\obj\Debug\net6.0\RiskDashboard.Api.Services.AssemblyInfoInputs.cache
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\obj\Debug\net6.0\RiskDashboard.Api.Services.AssemblyInfo.cs
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\obj\Debug\net6.0\RiskDashboard.Api.Services.csproj.CoreCompileInputs.cache
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\obj\Debug\net6.0\RiskDashboard.Api.Services.csproj.CopyComplete
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\obj\Debug\net6.0\RiskDashboard.Api.Services.dll
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\obj\Debug\net6.0\refint\RiskDashboard.Api.Services.dll
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\obj\Debug\net6.0\RiskDashboard.Api.Services.pdb
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\obj\Debug\net6.0\ref\RiskDashboard.Api.Services.dll
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\bin\Debug\net6.0\RiskDashboard.API.Repositories.dll
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\bin\Debug\net6.0\RiskDashboard.API.Repositories.pdb
+C:\Users\venkata.sreerama\OneDrive - Aspire Systems (India) Private Limited\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\bin\Debug\net6.0\RiskDashboard.Api.Services.deps.json
+C:\Users\venkata.sreerama\OneDrive - Aspire Systems (India) Private Limited\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\bin\Debug\net6.0\RiskDashboard.Api.Services.dll
+C:\Users\venkata.sreerama\OneDrive - Aspire Systems (India) Private Limited\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\bin\Debug\net6.0\RiskDashboard.Api.Services.pdb
+C:\Users\venkata.sreerama\OneDrive - Aspire Systems (India) Private Limited\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\bin\Debug\net6.0\RiskDashboard.API.Repositories.dll
+C:\Users\venkata.sreerama\OneDrive - Aspire Systems (India) Private Limited\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\bin\Debug\net6.0\RistDashboard.Api.Entities.dll
+C:\Users\venkata.sreerama\OneDrive - Aspire Systems (India) Private Limited\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\bin\Debug\net6.0\RiskDashboard.API.Repositories.pdb
+C:\Users\venkata.sreerama\OneDrive - Aspire Systems (India) Private Limited\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\bin\Debug\net6.0\RistDashboard.Api.Entities.pdb
+C:\Users\venkata.sreerama\OneDrive - Aspire Systems (India) Private Limited\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\obj\Debug\net6.0\RiskDashboard.Api.Services.csproj.AssemblyReference.cache
+C:\Users\venkata.sreerama\OneDrive - Aspire Systems (India) Private Limited\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\obj\Debug\net6.0\RiskDashboard.Api.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venkata.sreerama\OneDrive - Aspire Systems (India) Private Limited\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\obj\Debug\net6.0\RiskDashboard.Api.Services.AssemblyInfoInputs.cache
+C:\Users\venkata.sreerama\OneDrive - Aspire Systems (India) Private Limited\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\obj\Debug\net6.0\RiskDashboard.Api.Services.AssemblyInfo.cs
+C:\Users\venkata.sreerama\OneDrive - Aspire Systems (India) Private Limited\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\obj\Debug\net6.0\RiskDashboard.Api.Services.csproj.CoreCompileInputs.cache
+C:\Users\venkata.sreerama\OneDrive - Aspire Systems (India) Private Limited\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\obj\Debug\net6.0\RiskDashboard.Api.Services.csproj.CopyComplete
+C:\Users\venkata.sreerama\OneDrive - Aspire Systems (India) Private Limited\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\obj\Debug\net6.0\RiskDashboard.Api.Services.dll
+C:\Users\venkata.sreerama\OneDrive - Aspire Systems (India) Private Limited\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\obj\Debug\net6.0\refint\RiskDashboard.Api.Services.dll
+C:\Users\venkata.sreerama\OneDrive - Aspire Systems (India) Private Limited\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\obj\Debug\net6.0\RiskDashboard.Api.Services.pdb
+C:\Users\venkata.sreerama\OneDrive - Aspire Systems (India) Private Limited\RiskDashboard_RESTAPI\RiskDashboard.Api.Services\obj\Debug\net6.0\ref\RiskDashboard.Api.Services.dll

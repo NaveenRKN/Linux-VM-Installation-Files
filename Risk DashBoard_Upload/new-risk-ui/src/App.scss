@@ -1,0 +1,92 @@
+@import "./assets/admincss/style.css";
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.fa {
+    font-size: 15
+}
+
+.iconsize-sm {
+    font-size: 15
+}
+
+.iconsize-md {
+    font-size: 25
+}
+
+.login-wrapper {
+    height: 100vh;
+    background-image: url('./assets/images/login-background.png');
+    background-repeat: repeat-y;
+    background-size: cover;
+    background-position: center;
+}
+
+.card-container {
+    background-color: white;
+}
+
+.login-container {
+    width: 90%;
+    margin: auto;
+}
+
+.login-container .card {
+    padding: 1.25rem;
+    border: 0;
+    box-shadow: 0px 1px 18px 5px rgba(173, 176, 199, 0.5);
+}
+
+.login-container .form-group label {
+    font-size: 0.875rem;
+    font-weight: bold;
+    color: #474747;
+}
+
+.login-container .form-group input {
+    font-size: 0.875rem;
+    color: #474747;
+}
+
+.login-container .form-group input::placeholder {
+    color: #8c8c8c
+}
+
+.login-container .hyper-link {
+    color: #A32DC0;
+    font-size: 0.875rem;
+    text-decoration: underline;
+    margin: 0;
+}
+
+.login-container .form-check label {
+    font-weight: normal;
+    vertical-align: super;
+}
+
+.login-container .form-group input:checked {
+    accent-color: #A32DC0;
+}
+
+.login-container .btn-primary {
+    background-color: #A32DC0;
+}
+
+.login-container .btn-primary:hover {
+    background-color: #A32DC0;
+    opacity: 0.75;
+}
+
+.login-img img {
+    max-width: 100%;
+}
+
+.apexcharts-align-center {
+    text-align: left;
+}
+
+.apexcharts-align-right {
+    text-align: left;
+}

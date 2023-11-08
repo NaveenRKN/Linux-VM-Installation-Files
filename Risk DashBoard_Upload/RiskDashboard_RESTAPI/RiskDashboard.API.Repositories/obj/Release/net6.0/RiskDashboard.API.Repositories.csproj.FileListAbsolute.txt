@@ -1,0 +1,15 @@
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.API.Repositories\bin\Release\net6.0\RiskDashboard.API.Repositories.deps.json
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.API.Repositories\bin\Release\net6.0\RiskDashboard.API.Repositories.dll
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.API.Repositories\bin\Release\net6.0\RiskDashboard.API.Repositories.pdb
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.API.Repositories\bin\Release\net6.0\RistDashboard.Api.Entities.dll
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.API.Repositories\bin\Release\net6.0\RistDashboard.Api.Entities.pdb
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.API.Repositories\obj\Release\net6.0\RiskDashboard.API.Repositories.csproj.AssemblyReference.cache
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.API.Repositories\obj\Release\net6.0\RiskDashboard.API.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.API.Repositories\obj\Release\net6.0\RiskDashboard.API.Repositories.AssemblyInfoInputs.cache
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.API.Repositories\obj\Release\net6.0\RiskDashboard.API.Repositories.AssemblyInfo.cs
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.API.Repositories\obj\Release\net6.0\RiskDashboard.API.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.API.Repositories\obj\Release\net6.0\RiskDashboard.API.Repositories.csproj.CopyComplete
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.API.Repositories\obj\Release\net6.0\RiskDashboard.API.Repositories.dll
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.API.Repositories\obj\Release\net6.0\refint\RiskDashboard.API.Repositories.dll
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.API.Repositories\obj\Release\net6.0\RiskDashboard.API.Repositories.pdb
+C:\Users\venkata.sreerama\Downloads\RiskDashboard_RESTAPI\RiskDashboard.API.Repositories\obj\Release\net6.0\ref\RiskDashboard.API.Repositories.dll
